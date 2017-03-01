@@ -215,7 +215,7 @@
 			<outline type="rss" text="The unofficial Google data science Blog" title="The unofficial Google data science Blog" xmlUrl="http://www.unofficialgoogledatascience.com/feeds/posts/default" htmlUrl="http://www.unofficialgoogledatascience.com/"/>
 			<outline type="rss" text="Tim Dettmers" title="Tim Dettmers" xmlUrl="http://timdettmers.com/feed/" htmlUrl="http://timdettmers.com/"/>
 			<outline type="rss" text="Tombone&#x27;s Computer Vision Blog" title="Tombone&#x27;s Computer Vision Blog" xmlUrl="http://www.computervisionblog.com/feeds/posts/default" htmlUrl="http://www.computervisionblog.com/"/>
-			<outline type="rss" text="Tommy Blanchard" title="Tommy Blanchard" xmlUrl="http://tommyblanchard.com/feeds/all.atom.xml" htmlUrl="http://tommyblanchard.com/category/projects"/>
+			<outline type="rss" text="Tommy Blanchard" title="Tommy Blanchard" xmlUrl="http://tommyblanchard.com/feeds/all.atom.xml" htmlUrl="http://tommyblanchard.com/category/projects"/> 
 			<outline type="rss" text="Trevor Stephens" title="Trevor Stephens" xmlUrl="http://trevorstephens.com/feed.xml" htmlUrl="http://trevorstephens.com/"/>
 			<outline type="rss" text="Trey Causey" title="Trey Causey" xmlUrl="http://treycausey.com/feeds/all.atom.xml" htmlUrl="http://treycausey.com/"/>
 			<outline type="rss" text="UW Data Science Blog" title="UW Data Science Blog" xmlUrl="http://datasciencedegree.wisconsin.edu/feed/" htmlUrl="http://datasciencedegree.wisconsin.edu/blog/"/>
